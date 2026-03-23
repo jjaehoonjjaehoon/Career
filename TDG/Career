@@ -1,1 +1,48 @@
+2024.11.04 ~
+
+[삼성전자 DS - CoA-VDI 운영 (1,700대/ 12,600Users)] - 운영
+
+[Azure Cloud]
+- 리소스 생성 및 관리
+- Hybrid 환경의 Azure 방화벽 정책 등록 및 관리
+- NSG 및 Routing 설정
+- Azure 방화벽 로그 확인
+- Azure 관련 작업 지원 및 구성 변경
+
+[Paloalto 방화벽]
+- Hybrid 환경의 Paloalto 방화벽 정책 등록 및 관리
+- Paloalto 방화벽 로그 확인
+- EDL 업데이트 및 Alert 설정
+
+[Grafana]
+- 대시보드 패널 추가 및 관리
+- Alert 설정 및 관리
+
+
+
+[삼성전자 DS] - CoA 인터넷 VDI PoC
+
+[Citrix On Azure]
+- 인터넷 VDI PoC Resource 생성 및 역할 설치
+- 방화벽 내부 필수 시스템 및 인터넷 통신 구현 (PaloAlto 방화벽 연동)
+- 필수 서버 외 내부 통신 차단
+
+[Paloalto 방화벽]
+- Hybrid 환경의 Paloalto 방화벽 정책 등록 및 관리
+- Paloalto 방화벽 Virtual Routers 등록 및 관리
+
+
+
+[삼성전자 DS] - 인도 법인 전진 배치 VDI 구축 (3,500Users)
+
+[Citrix On Azure]
+- Resource 생성 및 역할 설치
+- VPN 및 Log Analytics 구성
+- F/W 및 Log Analytics 구성
+- Hub-Spoke 환경에서 가상 게이트웨이 2개를 바라볼 수 있도록 구성
+- 필수 서버 외 내부 통신 차단
+
+[Paloalto 방화벽]
+- Hybrid 환경의 Paloalto 방화벽 정책 등록 및 관리
+- Paloalto 방화벽 Virtual Routers 등록 및 관리
 
