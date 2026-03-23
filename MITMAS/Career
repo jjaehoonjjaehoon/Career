@@ -1,1 +1,19 @@
+[아모레퍼시픽 CoA-VDI 운영 (900대/ 1100Users)]
 
+- Azure와 연동된 관리포털에서 VDI 생성 및 삭제
+- VDI 사용자 지원
+- 고객 요청을 통한 VDI 내의 software 설치 지원 및 관리
+- VDI용 정책 관리
+- VDI MGMT Server 관리
+- Citrix DDC를 통한 VM 컨트롤
+- Azure 포탈을 통한 VDI 클라우드 백업 디스크 할당
+- RPA 업무를 수행하는 특수 VM 관리
+- 보고서 작성(주간 일지, 접속 현황 일지 등)
+
+
+
+[아모레퍼시픽 Xenapp 운영 (AWS 기반)]
+
+- Xenapp 안정화 모니터링 참여
+- Xenapp 사용자 지원
+- Xenapp MGMT Server 관리
