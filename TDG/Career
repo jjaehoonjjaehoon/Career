@@ -42,7 +42,3 @@
 - Hub-Spoke 환경에서 가상 게이트웨이 2개를 바라볼 수 있도록 구성
 - 필수 서버 외 내부 통신 차단
 
-[Paloalto 방화벽]
-- Hybrid 환경의 Paloalto 방화벽 정책 등록 및 관리
-- Paloalto 방화벽 Virtual Routers 등록 및 관리
-
