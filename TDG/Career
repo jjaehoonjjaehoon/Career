@@ -42,3 +42,11 @@
 - Hub-Spoke 환경에서 가상 게이트웨이 2개를 바라볼 수 있도록 구성
 - 필수 서버 외 내부 통신 차단
 
+
+[교원] - Azure AI 기반 영상 생성 파이프라인 구축
+
+- Azure AI Foundry(GPT/Sora) 기반 스토리보드 및 영상 생성 기능 구현
+- Azure Logic Apps 기반 End-to-End 워크플로우 자동화 구성
+- Azure AI Speech 기반 음성 생성 및 FFmpeg 기반 영상 병합 구현
+- Azure Container Apps Jobs를 활용한 비동기 렌더링 파이프라인 구축
+- Blob Storage 및 Queue 기반 영상 생성 프로세스 자동화
